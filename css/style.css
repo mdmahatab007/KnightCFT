@@ -128,6 +128,11 @@ header img{
 	transform: scale(1.1);
 	transform: rotate(360deg);
 }
+.bar{
+	font-size: 19px;
+	color: #50d966;
+	display: none;
+}
 /* header end */
 
 .body{

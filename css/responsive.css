@@ -1,0 +1,35 @@
+@media(max-width:768px){
+	.head-item{
+		display: none;
+	}
+	.bar{
+		display: block;
+	}
+	header img{
+		width: 13% !important;
+	}
+	.body-img img{
+		width:25%; 
+	}
+	.body-itm{
+		padding: 5px;
+	}
+	.body-txt1 h1{
+		font-size: 30px;
+	}
+	.body-txt2 h6{
+
+	}
+}
+
+
+
+@media(max-width: 991px){
+	header img{
+		width: 20%;
+	}
+	.head-item{
+		width: 150%;
+		justify-content: space-between;
+	}
+}
